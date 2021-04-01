@@ -12,9 +12,12 @@
 - 💬 I WIll Try My best To Make Tools For Hacking  ...
 - 😄 Pronouns: HACKERX5 Zaeem_Technical ...
 
-🌟***My Github Statistics***🌟:
+🌟***My Github Statistics***🌟: 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zaeem20&&show_icons=true&title_color=ffdf00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+🌟***Programming Languages***🌟:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaeem20&amp;layout=compact&amp;theme=react&amp;hide_border=true">
 
 **👉 Reach me With This Links:-**
 
