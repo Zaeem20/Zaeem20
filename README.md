@@ -29,3 +29,8 @@
 - [**Discord Server**](https://discord.gg/RckwnfQfTT)
 - [**Youtube**](https://www.youtube.com/c/ZaeemTechnical)
 - [**Instagram**](https://www.instagram.com/zaeem_technical19)
+
+**🌟Profile Statistics🌟**:
+
+<img src="https://komarev.com/ghpvc/?username=Zaeem20&amp;color=blueviolet&amp;style=flat-square">
+
