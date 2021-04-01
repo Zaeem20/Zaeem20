@@ -1,8 +1,8 @@
-### Zaeem Technical PortFolio👋
+### Zaeem Technical's PortFolio👋
 
 **💻 I am A Programmer and Ethical Hacker:**
 
-😎ABout Me!!!
+😎***ABout Me!!!***
 
 - 🔭 I’m currently working on Discord Bot ...
 - 🌱 Now I'm Learning JS and PHP ...
@@ -13,7 +13,7 @@
 
 🌟***My Github Statistics***🌟:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zaeem20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Zaeem20&&show_icons=true&title_color=ffdf00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 **👉 Reach me With This Links:-**
 
