@@ -2,7 +2,8 @@
 
 **💻 I am A Programmer and Ethical Hacker:**
 
-🌟***ABout Me!!!***🌟
+
+**🌟ABout Me!!!🌟**
 
 - 🔭 I’m currently working on Discord Bot ...
 - 🌱 Now I'm Learning JS and PHP ...
