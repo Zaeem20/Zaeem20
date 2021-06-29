@@ -1,9 +1,9 @@
 ### 😎 Whats'up, This is me Zaeem Technical...
 
-**💻 I am A Programmer and Ethical Hacker:**
+**💻 I am a Programmer and Ethical Hacker:**
 
 
-**🌟ABout Me!!!🌟**
+**🌟About Me!!!🌟**
 
 - 🔭 I’m currently working on Discord Bot ...
 - 🌱 Now I'm Learning JS and PHP ...
