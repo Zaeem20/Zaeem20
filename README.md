@@ -21,7 +21,7 @@
 <a href="https://github.com/Zaeem20"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaeem20&amp;layout=compact&amp;theme=react&amp;hide_border=true" />
 </a></p>
 
-🌟***Github Contributions and Streak***🌟:
+🌟***Github Contributions and Activity***🌟:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaeem20&theme=chartreuse-dark"/>
 </p>
