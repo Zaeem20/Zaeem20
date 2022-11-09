@@ -18,7 +18,7 @@
 <p align="center"><a href="https://github.com/Zaeem20">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zaeem20&show_icons=true&title_color=7bff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Zaeem20"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaeem20&amp;layout=compact&amp;theme=react&amp;hide_border=true" />
+<a href="https://github.com/Zaeem20"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaeem20&amp;layout=compact&amp;theme=react&amp;hide_border=true&lang_count=5" />
 </a></p>
 
 🌟***Github Contributions and Activity***🌟:
