@@ -1,14 +1,17 @@
-### 😎 Whats'up, This is me Zaeem Technical...
+# 👋 Hey there, I'm **Zaeem Durani**  
 
-**💻 I am a Programmer and Ethical Hacker:**
+💻 **Full Stack Developer** | 🛡 **Cybersecurity Professional (Ethical Hacker)**  
 
+---
 
-**🌟About Me!!!🌟**
+### 🚀 **About Me**
+- 🔐 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Penetration Testing**  
+- 💻 Experienced **Full Stack Developer** with strong focus on **Backend Development**  
+- ☁ Skilled in **Cloud Computing** and **DevOps** practices for scalable systems  
+- 🤖 Exploring **AI/ML** to integrate intelligence into secure applications  
+- 🌱 Always learning, always building: **Security + Development = My World**  
 
-- 🔭 I’m currently working on Discord Bot ...
-- 🌱 Now I'm Learning JS and PHP ...
-- 🤔 Programming is My Passion And Hacking will be My Profession ...
-- 💬 I WIll Try My best To Make Tools For Hacking  ...
+---
 
 🌟***My Github Statistics & Programming Languages***🌟: 
 
@@ -23,8 +26,25 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaeem20&theme=chartreuse-dark"/>
 </p>
 
-**👉 Reach me With This Links:-**
+### 🌟 **My GitHub Stats & Contributions** 🌟  
 
+### 🛠 **Tech Stack**
+**Languages:** Python, C++, Javascript (Node JS), PHP, Java, Dart, Bash  
+**Frameworks:** Djanog, Next JS, Express.js, React  
+**Cloud & DevOps:** AWS, GCP, OCI, Docker, Kubernetes, CI/CD Pipelines  
+**Cybersecurity:** Pen Testing, Network Security, Web App Security, InfoSec
+**AI/ML:** Python, TensorFlow, Scikit-learn  
+
+---
+
+### 📌 **What I Do**
+✅ Build **secure full-stack applications**  
+✅ Perform **penetration testing** and **vulnerability assessments**  
+✅ Automate deployments using **DevOps tools**  
+✅ Research and implement **AI-powered security solutions**  
+
+
+### 🌍 **Let's Connect**
 - [**Website**](https://www.zaeemtechnical.ml)
 - [**Twitter**](https://twitter.com/TechnicalZaeem)
 - [**Discord Server**](https://discord.gg/RckwnfQfTT)
